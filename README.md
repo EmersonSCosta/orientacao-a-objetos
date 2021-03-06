@@ -1,4 +1,4 @@
-# Introdução a Orientação a objetos
+# Introdução a Orientação a Objetos
 - Aprenda o paradigma OO com Python 3
 - Aplique Orientação a objetos com atributos, métodos e classes
 - Veja como usar propriedades
